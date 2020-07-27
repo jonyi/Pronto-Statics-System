@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/isource/svnroot/BTS_SC_UL_PHY/!svn/ver/279783/tools/Pronto%20Statics%20System/pcs/pronto
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/isource/svnroot/BTS_SC_UL_PHY/!svn/ver/279783/tools/Pronto%20Statics%20System/pcs/pronto/admin.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/isource/svnroot/BTS_SC_UL_PHY/!svn/ver/229294/tools/Pronto%20Statics%20System/pcs/pronto/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/isource/svnroot/BTS_SC_UL_PHY/!svn/ver/194962/tools/Pronto%20Statics%20System/pcs/pronto/__init__.py
+END
+apps.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/isource/svnroot/BTS_SC_UL_PHY/!svn/ver/194962/tools/Pronto%20Statics%20System/pcs/pronto/apps.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/isource/svnroot/BTS_SC_UL_PHY/!svn/ver/226835/tools/Pronto%20Statics%20System/pcs/pronto/models.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/isource/svnroot/BTS_SC_UL_PHY/!svn/ver/229294/tools/Pronto%20Statics%20System/pcs/pronto/config.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/isource/svnroot/BTS_SC_UL_PHY/!svn/ver/226835/tools/Pronto%20Statics%20System/pcs/pronto/urls.py
+END

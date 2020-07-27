@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+{% load static %}
+    <head>
+        <script type="text/javascript" src="{% static 'pronto/js/jquery.min.js' %}"></script>
+        <script type="text/javascript" src="{% static 'pronto/js/highcharts.js' %}"></script>
+        <script type="text/javascript" src="{% static 'pronto/js/charting.js' %}"></script>
+        <link type="text/css" rel="stylesheet" href="{% static 'pronto/js/jsgrid-1.5.3/jsgrid.min.css' %}" />
+        <link type="text/css" rel="stylesheet" href="{% static 'pronto/js/jsgrid-1.5.3/jsgrid-theme.min.css' %}" />
+        <script type="text/javascript" src="{% static 'pronto/js/jsgrid-1.5.3/jsgrid.min.js' %}"></script>
+        <script type="text/javascript" src="{% static 'pronto/js/main.js' %}"></script>
+        <link type="text/css" rel="stylesheet" href="{% static 'pronto/css/main.css' %}" />
+        <title>Pronto Collection Statics Page</title>
+    </head>
+    <body>
+        {% csrf_token %}
+        <div class ="main">
+            <div class="header_left" >
+                <div class="logo">
+                    <img src= "{% static 'pronto/img/Nokia_logo.png' %}" width="220px" height="50px" border="0" alt="NOKIA" title="NOKIA">
+                </div>
+            </div>
+            <div class="head-right" >
+                <div class="content-top">
+                    <div class="global_links f-right topNavBg">
+                        <a href="{% url 'pronto:index' %}">Main</a>
+                        <a href="{% url 'pronto:render_pronto_charting' %}">Report</a>
+                    </div>
+                </div>
+            </div>
+            <div class="charts">
+                <div id="container_top_ratio" class="container_line_char">
+                    <script type="text/javascript">stacked_percentage_column("container_top_ratio");</script>
+                </div>
+                <div id="container_priority_ratio" class="container_line_char">
+                    <script type="text/javascript">stacked_percentage_column_priority("container_priority_ratio");</script>
+                </div>
+                <div id="container_pronto_cost" class="container_line_char">
+                    <script type="text/javascript">get_pronto_time("container_pronto_cost");</script>
+                </div>
+                <div id="container_person" class="container_pie_chart">
+                    <script type="text/javascript">pie_chart("container_person", "responsible_person");</script>
+                </div>
+                <div id="container_group" class="container_pie_chart">
+                    <script type="text/javascript">pie_chart("container_group", "group_idx");</script>
+                </div>
+                <div id="container_status" class="container_pie_chart">
+                    <script type="text/javascript">pie_chart("container_status", "status");</script>
+                </div>
+                <div id="container_group_to" class="container_pie_chart">
+                    <script type="text/javascript">pie_chart("container_group_to", "transfer_to");</script>
+                </div>
+                <div id="container_group_from" class="container_pie_chart">
+                    <script type="text/javascript">pie_chart("container_group_from", "transfer_from");</script>
+                </div>
+                <div id="container_severity" class="container_pie_chart">
+                    <script type="text/javascript">pie_chart("container_severity", "severity");</script>
+                </div>
+                <div id="container_top" class="container_pie_chart">
+                    <script type="text/javascript">pie_chart("container_top", "is_top");</script>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

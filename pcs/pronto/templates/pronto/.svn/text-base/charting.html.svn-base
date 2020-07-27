@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+{% load static %}
+    <head>
+        <script type="text/javascript" src="{% static 'pronto/js/jquery.min.js' %}"></script>
+        <script type="text/javascript" src="{% static 'pronto/js/highcharts.js' %}"></script>
+        <script type="text/javascript" src="{% static 'pronto/js/exporting.js' %}"></script>
+        <script type="text/javascript" src="{% static 'pronto/js/charting.js' %}"></script>
+        <link type="text/css" rel="stylesheet" href="{% static 'pronto/js/jsgrid-1.5.3/jsgrid.min.css' %}" />
+        <link type="text/css" rel="stylesheet" href="{% static 'pronto/js/jsgrid-1.5.3/jsgrid-theme.min.css' %}" />
+        <script type="text/javascript" src="{% static 'pronto/js/jsgrid-1.5.3/jsgrid.min.js' %}"></script>
+        <script type="text/javascript" src="{% static 'pronto/js/main.js' %}"></script>
+        <link type="text/css" rel="stylesheet" href="{% static 'pronto/css/main.css' %}" />
+        <title>Pronto Collection Statics Page</title>
+    </head>
+    <body>
+        {% csrf_token %}
+        <div class ="main">
+            <div class="header_left" >
+                <div class="logo">
+                    <img src= "{% static 'pronto/img/Nokia_logo.png' %}" width="220px" height="50px" border="0" alt="NOKIA" title="NOKIA">
+                </div>
+            </div>
+            <div class="head-right" >
+                <div class="content-top">
+                    <div class="global_links f-right topNavBg">
+                        <a href="{% url 'pronto:index' %}">Main</a>
+                        <a href="{% url 'pronto:render_pronto_statics' %}">Static</a>
+                    </div>
+                </div>
+            </div>
+            <div class="header_below">
+                <ul>
+                {% for filed_name in pronto_fields %}
+                    <li><input type = "checkbox" name="{{ filed_name }}" id="{{ forloop.counter0 }}" value="{{ filed_name }}" onChange="chk({{ forloop.counter0 }},'{{ filed_name }}')" checked="checked"/> {{filed_name}}</li>
+                {% endfor %}
+                </ul>
+            </div>
+            <div id="container_line_char" class="container_line_char">
+                <script type="text/javascript">pronto_chart();</script>
+            </div>
+            <div id="jsGrid"></div>
+            <script type="text/javascript">get_pronto_with_condition('get_pronto_woh', false);</script>
+        </div>
+    </body>
+</html>

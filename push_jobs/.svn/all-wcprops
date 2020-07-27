@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/isource/svnroot/BTS_SC_UL_PHY/!svn/ver/250618/tools/Pronto%20Statics%20System/push_jobs
+END
+fetch_pronto.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/isource/svnroot/BTS_SC_UL_PHY/!svn/ver/247848/tools/Pronto%20Statics%20System/push_jobs/fetch_pronto.py
+END
+send_mail.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/isource/svnroot/BTS_SC_UL_PHY/!svn/ver/218371/tools/Pronto%20Statics%20System/push_jobs/send_mail.py
+END
+load_previous_data.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/isource/svnroot/BTS_SC_UL_PHY/!svn/ver/198055/tools/Pronto%20Statics%20System/push_jobs/load_previous_data.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/isource/svnroot/BTS_SC_UL_PHY/!svn/ver/250618/tools/Pronto%20Statics%20System/push_jobs/config.py
+END

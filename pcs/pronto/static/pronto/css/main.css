@@ -1,0 +1,14 @@
+.main { height:740px; width: 1580px }
+.header_left { float: left; height:50px; width: 1420px }
+.head-right { float: right; margin-top:0px; height:50px; width: 150px }
+.header_below { float: left; height:60px; width: 1580px}
+.header_below ul{ list-style:none;}
+.header_below li{ float:left;}
+.container_line_char { width: 1580px }
+.main_table { height:50px; height:670px; width: 2700px}
+.charts {float: left; height:1480px; width: 1580px}
+.container_pie_chart { float: left; height:370px; width: 790px }
+.container_pie_chart { float: left; height:370px; width: 790px }
+.global_links{font-family:arial, verdana, sans-serif;font-size:.9em;padding-top:0px;text-align:right;}
+.global_links a{border-left:1px solid #CCCCCC;color:#575757 !important;margin:5px 0px;padding:0px 10px;text-decoration:none;}
+.global_links a:hover{color:#000 !important;text-decoration:none;}

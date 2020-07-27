@@ -1,0 +1,2454 @@
+
+			  	
+			  		
+			  		
+			  		
+			  		
+			  		
+			  		
+			  		
+			  		
+					
+<tr class="even viewDetail1"> 
+			 		 	
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								<td nowrap="">
+									
+									
+									
+									
+									
+									
+								</td>
+								<td>
+									
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										   
+										   
+										<a href="./problemReport.html?prid=PR432309">										
+											       		PR432309
+											</a>
+										   </div>
+											
+																				
+									
+								</td>
+								
+								
+								
+								
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		5GC001037-C-BBP-a should be similar on ASIK. But seems it can working on ASIK but not on ASOD.
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		17 Apr 2019
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		[ASOD] Frame Clock 800Hz not supported
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		New
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+																				
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		B - Major
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+																				
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		PS1.0
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+																				
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+																				
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+																				
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+																				
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+																				
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+																				
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		Poniard, Leo (Nokia - FR/Paris-Saclay)
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+			 		 					 		 		
+			 		 		
+								<input name="myViewPRID" type="hidden" value="PR432309"/> 
+							
+								
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+			 		 					 		 		
+			 		 		
+								
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+			 		 					 		 		
+			 		 		
+								
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+			 		 					 		 		
+			 		 		
+								
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+			 		 					 		 		
+			 		 		
+								
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+			 		 					 		 		
+			 		 		
+								
+						
+			 			
+					</tr>
+
+				
+			  		
+			  		
+			  		
+			  		
+			  		
+			  		
+			  		
+			  		
+					
+<tr class="odd viewDetail1"> 
+			 		 	
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								<td nowrap="">
+									
+									
+									
+									
+									
+									
+								</td>
+								<td>
+									
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										   
+										   
+										<a href="./problemReport.html?prid=PR424697">										
+											       		PR424697
+											</a>
+										   </div>
+											
+																				
+									
+								</td>
+								
+								
+								
+								
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		[#RC: known, LE: yyyy-mm-dd]
+2019-04-17:Ding Cuiling: done , code review is ongoing :https://gerrit.ext.net.nokia.com/gerrit/#/c/915469/
+https://gerrit.ext.net.nokia.com/gerrit/#/c/915476/
+
+2019-0
+										       		
+										       		...
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		22 Mar 2019
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		[ASOD][LFS] Getting UART state for DDAL_CLK_IO_SOURCE_IDLE doesn't work
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		Investigating
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		Ding, Cui (NSB - CN/Hangzhou)
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		B - Major
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+																				
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		PS1.0
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+																				
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+																				
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+																				
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+																				
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+																				
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+																				
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		Nowak, Pawel 1. (Nokia - PL/Wroclaw)
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+			 		 					 		 		
+			 		 		
+								<input name="myViewPRID" type="hidden" value="PR424697"/> 
+							
+								
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+			 		 					 		 		
+			 		 		
+								
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+			 		 					 		 		
+			 		 		
+								
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+			 		 					 		 		
+			 		 		
+								
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+			 		 					 		 		
+			 		 		
+								
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+			 		 					 		 		
+			 		 		
+								
+						
+			 			
+					</tr>
+
+				
+			  		
+			  		
+			  		
+			  		
+			  		
+			  		
+			  		
+			  		
+					
+<tr class="even viewDetail1"> 
+			 		 	
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								<td nowrap="">
+									
+									
+									<img border="0" height="10" src="/pronto/images/rejected.gif" width="10"/> 
+									
+									
+									
+								</td>
+								<td>
+									
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										   
+										   
+										<a href="./problemReport.html?prid=PR425595">										
+											       		PR425595
+											</a>
+										   </div>
+											
+																				
+									
+								</td>
+								
+								
+								
+								
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		[#RC: unknown, LE: yyyy-mm-dd]
+2019-04-17 Zhijiang: requirment is defined in WBTS_SEC_53359, need to discuss in TMT meeting
+2019-04-12 Zhijiang: discussion with L1 and TRS is ongoing, no conclusion 
+										       		
+										       		...
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		26 Mar 2019
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		[ASOD] nvrd/log/boot_slot00_devC_bootlog.msg wrong permission in ASOD
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		Investigating
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		Zhang, Sean C. (NSB - CN/Hangzhou)
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		B - Major
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+																				
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		PS1.0
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+																				
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+																				
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+																				
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+																				
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+																				
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+																				
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		Kumar Sharma, Manoj (Nokia - IN/Bangalore)
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+			 		 					 		 		
+			 		 		
+								<input name="myViewPRID" type="hidden" value="PR425595"/> 
+							
+								
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+			 		 					 		 		
+			 		 		
+								
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+			 		 					 		 		
+			 		 		
+								
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+			 		 					 		 		
+			 		 		
+								
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+			 		 					 		 		
+			 		 		
+								
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+			 		 					 		 		
+			 		 		
+								
+						
+			 			
+					</tr>
+
+				
+			  		
+			  		
+			  		
+			  		
+			  		
+			  		
+			  		
+			  		
+					
+<tr class="odd viewDetail1"> 
+			 		 	
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								<td nowrap="">
+									
+									
+									
+									
+									
+									
+								</td>
+								<td>
+									
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										   
+										   
+										<a href="./problemReport.html?prid=PR431865">										
+											       		PR431865
+											</a>
+										   </div>
+											
+																				
+									
+								</td>
+								
+								
+								
+								
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		2019-04-17 Bing Wang: Next will check  VLAN configuration on ASOD follow the specification or not. Group chat will be create to discuss.
+2019-04-16 Bing Wang: Start Investigating...
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		16 Apr 2019
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		[Airscale][ASOD][FDSW] Ssh to LMP gets disabled after an unknow inactivity time
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		Investigating
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		Wang, Bing 3. (NSB - CN/Hangzhou)
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		A - Critical
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+																				
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		PS1.0
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+																				
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+																				
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		Discussion and Analysis Mail Shared by Suresh Thippeswamy with subject " ASOD SSH to LMP Issue logs"
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+																				
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+																				
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+																				
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		Wali, Mayur (Nokia - IN/Bangalore)
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+			 		 					 		 		
+			 		 		
+								<input name="myViewPRID" type="hidden" value="PR431865"/> 
+							
+								
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+			 		 					 		 		
+			 		 		
+								
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+			 		 					 		 		
+			 		 		
+								
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+			 		 					 		 		
+			 		 		
+								
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+			 		 					 		 		
+			 		 		
+								
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+			 		 					 		 		
+			 		 		
+								
+						
+			 			
+					</tr>
+
+				
+			  		
+			  		
+			  		
+			  		
+			  		
+			  		
+			  		
+			  		
+					
+<tr class="even viewDetail1"> 
+			 		 	
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								<td nowrap="">
+									
+									
+									
+									
+									
+									  		<img border="0" height="10" src="/pronto/images/top.gif" width="10"/> 
+									
+									
+								</td>
+								<td>
+									
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										   
+										   
+										<a href="./problemReport.html?prid=PR425012">										
+											       		PR425012
+											</a>
+										   </div>
+											
+																				
+									
+								</td>
+								
+								
+								
+								
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		[#RC: known, LE: yyyy-mm-dd]
+2019-04-08/09/10/11/12/15/16/17 Zhijiang: still No gNB load and PS IB1903006 integration ongoing
+[2019-04-05] Li Xiaojun: No gNB package. 
+2019-04-04/05 Zhijiang: PS_RE
+										       		
+										       		...
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		25 Mar 2019
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		[5G00][ASOD] [5GC001187-B]ASOD CCS RT start up failed
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		First Correction Ready For Testing
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		Tao, Wei W. (NSB - CN/Hangzhou)
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		A - Critical
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		TOP_5G19A_blocker
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		5G00
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+																				
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		Regression Testing
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+																				
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+																				
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+																				
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+																				
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+								
+								
+								
+								
+		 		 				<td>
+		 		 				
+		 		 				 
+										
+										 <div style="word-wrap: break-word;min-width:75px;">
+										     
+										       		Zhang, Yu 8. (NSB - CN/Hangzhou)
+										       		
+										       		
+										    </div>
+																					
+									
+								</td>
+		 		 				
+		 		 				
+		 		 			
+			 		 			
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+			 		 					 		 		
+			 		 		
+								<input name="myViewPRID" type="hidden" value="PR425012"/> 
+							
+								
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+			 		 					 		 		
+			 		 		
+								
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+			 		 					 		 		
+			 		 		
+								
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+			 		 					 		 		
+			 		 		
+								
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+			 		 					 		 		
+			 		 		
+								
+						
+			 			
+			 		 	
+			 		 
+			 		 	
+			 		 	
+							
+			 		 					 		 		
+			 		 		
+								
+						
+			 			
+					</tr>
+
+				 
+			

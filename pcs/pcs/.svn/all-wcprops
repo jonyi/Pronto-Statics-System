@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/isource/svnroot/BTS_SC_UL_PHY/!svn/ver/229294/tools/Pronto%20Statics%20System/pcs/pcs
+END
+wsgi.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/isource/svnroot/BTS_SC_UL_PHY/!svn/ver/194962/tools/Pronto%20Statics%20System/pcs/pcs/wsgi.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/isource/svnroot/BTS_SC_UL_PHY/!svn/ver/194962/tools/Pronto%20Statics%20System/pcs/pcs/__init__.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/isource/svnroot/BTS_SC_UL_PHY/!svn/ver/229294/tools/Pronto%20Statics%20System/pcs/pcs/settings.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/isource/svnroot/BTS_SC_UL_PHY/!svn/ver/195826/tools/Pronto%20Statics%20System/pcs/pcs/urls.py
+END
